@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nlp-project/static/css/main.9ae2c18c.css",
-    "main.js": "/nlp-project/static/js/main.ad16348d.js",
+    "main.js": "/nlp-project/static/js/main.69d51633.js",
     "index.html": "/nlp-project/index.html",
     "main.9ae2c18c.css.map": "/nlp-project/static/css/main.9ae2c18c.css.map",
-    "main.ad16348d.js.map": "/nlp-project/static/js/main.ad16348d.js.map"
+    "main.69d51633.js.map": "/nlp-project/static/js/main.69d51633.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae2c18c.css",
-    "static/js/main.ad16348d.js"
+    "static/js/main.69d51633.js"
   ]
 }

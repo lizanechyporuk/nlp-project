@@ -1,0 +1,29 @@
+@use "/src/styles/variables.scss";
+
+.results__panel {
+  padding: 15px;
+  color: #f5dde6;
+  height: 100vh;
+  overflow-y: auto;
+  width: 50%;
+
+  h2,
+  h3 {
+    margin-top: 15px;
+  }
+
+  select {
+    padding: 8px;
+    margin-bottom: 15px;
+    font-size: 14px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      margin: 5px 0;
+    }
+  }
+}

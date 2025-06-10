@@ -1,0 +1,19 @@
+@use "/src/styles/variables.scss";
+
+.message {
+  margin: 10px;
+  max-width: 80%;
+  padding: 12px 15px;
+  border-radius: 15px;
+  line-height: 1.4;
+
+  &.bot {
+    background-color: #e2e8f0;
+    align-self: flex-start;
+  }
+
+  &.user {
+    background-color: #bee3f8;
+    align-self: flex-end;
+  }
+}

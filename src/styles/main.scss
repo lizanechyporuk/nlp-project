@@ -1,0 +1,45 @@
+// @use "./mixins/breakpoints-mixins" as breakpoints;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+  min-width: 280px;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+  overflow-x: hidden;
+  min-width: 280px;
+}
+
+:root {
+  /* Background colors */
+  --primary-bg-color: #2f404d;
+  --light-bg-color: #f5dde6;
+
+  /* Text colors */
+  --white-text-color: #ffffff;
+  --black-text-color: #000;
+
+  /* Font family */
+  --font-family: "Poppins", sans-serif;
+
+  /* Font sizes */
+  --font-size-10: 10px;
+  --font-size-12: 12px;
+  --font-size-14: 14px;
+  --font-size-16: 16px;
+
+  /* Font weights */
+  --light: 300;
+  --regular: 400;
+  --medium: 500;
+  --semibold: 600;
+  --bold: 700;
+}

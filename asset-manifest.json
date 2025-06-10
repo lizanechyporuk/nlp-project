@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nlp-project/static/css/main.9ae2c18c.css",
+    "main.js": "/nlp-project/static/js/main.ad16348d.js",
+    "index.html": "/nlp-project/index.html",
+    "main.9ae2c18c.css.map": "/nlp-project/static/css/main.9ae2c18c.css.map",
+    "main.ad16348d.js.map": "/nlp-project/static/js/main.ad16348d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae2c18c.css",
+    "static/js/main.ad16348d.js"
+  ]
+}
